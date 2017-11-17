@@ -1,0 +1,68 @@
+c:\users\matheus\documents\visual studio 2015\Projects\Prova2_LavaJato\Prova2_LavaJato\bin\Debug\Prova2_LavaJato.exe.config
+c:\users\matheus\documents\visual studio 2015\Projects\Prova2_LavaJato\Prova2_LavaJato\bin\Debug\Prova2_LavaJato.exe
+c:\users\matheus\documents\visual studio 2015\Projects\Prova2_LavaJato\Prova2_LavaJato\bin\Debug\Prova2_LavaJato.pdb
+c:\users\matheus\documents\visual studio 2015\Projects\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.csprojResolveAssemblyReference.cache
+c:\users\matheus\documents\visual studio 2015\Projects\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form1.resources
+c:\users\matheus\documents\visual studio 2015\Projects\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Properties.Resources.resources
+c:\users\matheus\documents\visual studio 2015\Projects\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.csproj.GenerateResource.Cache
+c:\users\matheus\documents\visual studio 2015\Projects\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.exe
+c:\users\matheus\documents\visual studio 2015\Projects\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.pdb
+c:\users\matheus\documents\visual studio 2015\Projects\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form2.resources
+c:\users\matheus\documents\visual studio 2015\Projects\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form3.resources
+c:\users\matheus\documents\visual studio 2015\Projects\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form4.resources
+c:\users\matheus\documents\visual studio 2015\Projects\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form5.resources
+c:\users\matheus\documents\visual studio 2015\Projects\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form6.resources
+E:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\bin\Debug\Prova2_LavaJato.exe.config
+E:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.exe
+E:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.pdb
+E:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\bin\Debug\Prova2_LavaJato.exe
+E:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\bin\Debug\Prova2_LavaJato.pdb
+E:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.csprojResolveAssemblyReference.cache
+E:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form1.resources
+E:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form2.resources
+E:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form3.resources
+E:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form4.resources
+E:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form5.resources
+E:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form6.resources
+E:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Properties.Resources.resources
+E:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.csproj.GenerateResource.Cache
+F:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\bin\Debug\Prova2_LavaJato.exe.config
+F:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.exe
+F:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.pdb
+F:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\bin\Debug\Prova2_LavaJato.exe
+F:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\bin\Debug\Prova2_LavaJato.pdb
+F:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.csprojResolveAssemblyReference.cache
+F:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form1.resources
+F:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form2.resources
+F:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form3.resources
+F:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form4.resources
+F:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form5.resources
+F:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form6.resources
+F:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Properties.Resources.resources
+F:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.csproj.GenerateResource.Cache
+E:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\bin\Debug\Newtonsoft.Json.dll
+E:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\bin\Debug\System.Net.Http.Formatting.dll
+E:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\bin\Debug\Newtonsoft.Json.xml
+E:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\bin\Debug\System.Net.Http.Formatting.xml
+F:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\bin\Debug\Newtonsoft.Json.dll
+F:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\bin\Debug\System.Net.Http.Formatting.dll
+F:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\bin\Debug\Newtonsoft.Json.xml
+F:\UCB\5 semestre\TALP\Exercs\Projetos\Prova2_LavaJato\Prova2_LavaJato\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Matheus\Desktop\Prova2LavaJato-master\Prova2_LavaJato\bin\Debug\Prova2_LavaJato.exe.config
+C:\Users\Matheus\Desktop\Prova2LavaJato-master\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.exe
+C:\Users\Matheus\Desktop\Prova2LavaJato-master\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.pdb
+C:\Users\Matheus\Desktop\Prova2LavaJato-master\Prova2_LavaJato\bin\Debug\Prova2_LavaJato.exe
+C:\Users\Matheus\Desktop\Prova2LavaJato-master\Prova2_LavaJato\bin\Debug\Prova2_LavaJato.pdb
+C:\Users\Matheus\Desktop\Prova2LavaJato-master\Prova2_LavaJato\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matheus\Desktop\Prova2LavaJato-master\Prova2_LavaJato\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Matheus\Desktop\Prova2LavaJato-master\Prova2_LavaJato\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matheus\Desktop\Prova2LavaJato-master\Prova2_LavaJato\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Matheus\Desktop\Prova2LavaJato-master\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Desktop\Prova2LavaJato-master\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form1.resources
+C:\Users\Matheus\Desktop\Prova2LavaJato-master\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form2.resources
+C:\Users\Matheus\Desktop\Prova2LavaJato-master\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form3.resources
+C:\Users\Matheus\Desktop\Prova2LavaJato-master\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form4.resources
+C:\Users\Matheus\Desktop\Prova2LavaJato-master\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form5.resources
+C:\Users\Matheus\Desktop\Prova2LavaJato-master\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Form6.resources
+C:\Users\Matheus\Desktop\Prova2LavaJato-master\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Prova2LavaJato-master\Prova2_LavaJato\obj\Debug\Prova2_LavaJato.csproj.GenerateResource.Cache
